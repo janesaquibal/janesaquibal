@@ -1,0 +1,17 @@
+start
+input x and y
+add x and y 
+display the sum
+input x and y
+subtract x and y 
+display the difference
+input x and y
+multiply x and y 
+display the product
+input x and y 
+divide the dividend by the divisor 
+compute for the quotient
+multiply quotient by divisor
+check for remainder
+display the quotient
+end
