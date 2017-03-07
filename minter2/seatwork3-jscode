@@ -1,0 +1,17 @@
+start
+get user input 
+if user inputs value between 97 to 100
+show 4.0 as result
+if user inputs 93, 94, 95, or 96
+show 3.5 as result
+if user 89, 90, 91, or 92
+show 3.0 as result
+if user inputs 85, 86, 87, or 88
+show 2.5
+if user inputs 84, 83, 82, 81, or 80
+show 2.0
+if user inputs 75, 76, 77, 78, OR 79
+show 1.5
+if user inputs any value that is equal to or below 70
+show 0
+end
